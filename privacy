@@ -1,6 +1,6 @@
 Bu uygulama, yalnızca sizin girdiğiniz IBAN ve isim bilgilerini cihazınızda yerel olarak
                 saklar. Verileriniz üçüncü kişilerle paylaşılmaz ve herhangi bir sunucuya gönderilmez.
-                {"\n\n"}Dışa aktarma yaptığınızda, oluşturulan dosya şifrelenmez ve paylaşmayı seçtiğiniz
+                Dışa aktarma yaptığınızda, oluşturulan dosya şifrelenmez ve paylaşmayı seçtiğiniz
                 uygulamaya gönderilir. Bu nedenle dışa aktarılan dosyaların güvenliği sizin sorumluluğunuzdadır.
-                {"\n\n"}KVKK kapsamında kişisel verileriniz (isim, IBAN, açıklama) yalnızca sizin erişiminiz
+               KVKK kapsamında kişisel verileriniz (isim, IBAN, açıklama) yalnızca sizin erişiminiz
                 için cihazınızda saklanır. İstediğiniz an tüm verilerinizi silebilirsiniz.
