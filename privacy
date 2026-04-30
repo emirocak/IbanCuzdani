@@ -1,6 +1,25 @@
-Bu uygulama, yalnızca sizin girdiğiniz IBAN ve isim bilgilerini cihazınızda yerel olarak
-                saklar. Verileriniz üçüncü kişilerle paylaşılmaz ve herhangi bir sunucuya gönderilmez.
-                Dışa aktarma yaptığınızda, oluşturulan dosya şifrelenmez ve paylaşmayı seçtiğiniz
-                uygulamaya gönderilir. Bu nedenle dışa aktarılan dosyaların güvenliği sizin sorumluluğunuzdadır.
-               KVKK kapsamında kişisel verileriniz (isim, IBAN, açıklama) yalnızca sizin erişiminiz
-                için cihazınızda saklanır. İstediğiniz an tüm verilerinizi silebilirsiniz.
+Son güncelleme: 30 Nisan 2026
+
+        VERİ SAKLAMA
+        Bu uygulama, sizin girdiğiniz IBAN, isim ve açıklama bilgilerini yalnızca cihazınızda yerel olarak saklar. Bu veriler hiçbir sunucuya gönderilmez, üçüncü kişilerle paylaşılmaz.
+
+        REKLAM HİZMETİ (Google AdMob)
+        Uygulama içinde Google AdMob aracılığıyla banner reklamlar gösterilir. AdMob, size daha alakalı reklamlar göstermek için cihaz tanımlayıcılarını (IDFA) kullanabilir.
+
+        İzin verme/reddetme tercihinizi:
+        • Uygulamayı ilk açtığınızda gösterilen "Takip İzni" penceresinden,
+        • veya istediğiniz zaman iOS Ayarlar → Gizlilik ve Güvenlik → Takip menüsünden değiştirebilirsiniz.
+
+        İzin vermeseniz dahi reklamlar görünmeye devam eder, ancak kişiselleştirilmiş olmayabilir. Uygulamanın temel işlevleri izinden bağımsız çalışır.
+
+        Reklam servisleri tarafından toplanan veriler hakkında detaylı bilgi:
+        https://policies.google.com/technologies/ads
+
+        DIŞA AKTARMA
+        Veri dışa aktardığınızda oluşturulan JSON dosyası şifrelenmez. Paylaştığınız uygulamaya gönderilir ve güvenliği sizin sorumluluğunuzdadır.
+
+        KVKK KAPSAMINDA HAKLARINIZ
+        Kişisel verileriniz (isim, IBAN, açıklama) yalnızca sizin erişiminiz için cihazınızda saklanır. KVKK 11. madde kapsamındaki haklarınızı (silme, değiştirme, taşıma) uygulama içinden istediğiniz zaman kullanabilirsiniz.
+
+        İLETİŞİM
+        Sorularınız için: emirrocak@gmail.com
